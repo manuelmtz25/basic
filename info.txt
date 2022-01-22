@@ -6,4 +6,5 @@ edad 33
 
 curp MAAM250188
 
-Texto de cabecera
+Texto de cabecera: aquí se escriben los datos de la cabecera.
+más textó en la cabecera 1
