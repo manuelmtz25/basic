@@ -7,3 +7,4 @@ edad 33
 curp MAAM
 
 Texto de cabecera: aquí se escriben los datos de la cabecera.
+más textó en la cabecera 1
