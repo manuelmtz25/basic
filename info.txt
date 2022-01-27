@@ -7,4 +7,4 @@ edad 33 años
 curp adf456
 
 Texto de cabecera: aquí se escriben los datos de la cabecera.
-más textó en la cabecera 1
+Más texto en la cabecera uno
